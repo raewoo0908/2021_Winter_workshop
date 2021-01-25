@@ -1,6 +1,6 @@
 # 2021_Winter_workshop
 
-##What do we learn?
+## What do we learn?
 * This workshop is about how to use github. We will learn about 
 1. github
 2. usage
