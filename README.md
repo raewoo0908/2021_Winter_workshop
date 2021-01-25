@@ -5,6 +5,7 @@
 1. github
 2. usage
 3. direction
+4. a project using github.
 
 if you wanna add some lines of code, use this. "```"
 
